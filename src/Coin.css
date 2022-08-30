@@ -125,7 +125,7 @@ img {
 }
 
 .coin-marketcap {
-    width: 250px;
+    min-width: 100%;
     padding-left: 6%;
 }
 
